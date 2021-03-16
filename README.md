@@ -1,6 +1,17 @@
 # elk-stack-logging-example
 centralize logging in microservice architecture using ELK Stack
 
+Step 1 ->need to install elasticsearch
+Step 2 ->install logstash
+Step 3 ->install kibana
+Step 4 ->Configure logstash conf file
+
+Step 5 -> Go to kibana
+          create index pattern
+		  select logstash current time stamp entry
+		  configure (timestamp, etc)
+		  go to discover
+
 
 #conf file need to place in the logstash bin folder
 
