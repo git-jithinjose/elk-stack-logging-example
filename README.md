@@ -7,6 +7,8 @@ C:\elasticsearch-7.7.0\bin>elasticsearch.bat
 http://localhost:9200/
 
 Step 2 ->install logstash
+C:\logstash-7.7.0\logstash-7.7.0\bin>logstash -f logstash_config_custom.conf
+
 Step 3 ->install kibana
 
 C:\kibana-7.7.0\bin>kibana.bat
